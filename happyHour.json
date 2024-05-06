@@ -1,5 +1,5 @@
 {
-  “HappyHour”:
+  “happyHour”:
   [
     {“lblName”:”Barley Mac”, “lblCity”:”Rosslyn”, “lblInfo”:”Monday- Friday 4 pm – 7 pm. Discounted food and drinks.”,”lblNumber”:”571-800-3070”,”lblAddress”:”1600 Wilson Blvd Suite 100, Arlington, VA 22209”,”BarImage”:” https://raw.githubusercontent.com/achanth/JSONProjectsIT315/master/barleyMac.jpeg”,”barSite”:” https://www.barleymac.com/”,”barMap”:” https://www.google.com/maps/place/Barley+Mac/@38.8940966,-77.077361,15z/data=!4m6!3m5!1s0x89b7b65e5cfc04d3:0xa04a4428fbbad90f!8m2!3d38.8940966!4d-77.077361!16s%2Fg%2F11cn3pty4l?entry=ttu”},
     {“lblName”:”Burtons Grill”, “lblCity”:”Alexandria”, “lblInfo”:”Monday- Friday 3 pm – 7 pm. Discounted food and drinks.”,”lblNumber”:” 703-922-1730”,”lblAddress”:”6452 Old Beulah St, Alexandria, VA 22315”,”BarImage”:” https://raw.githubusercontent.com/achanth/JSONProjectsIT315/master/burtons.jpeg”,”barSite”:” https://burtonsgrill.com/menus/va/alexandria/happy-hour/”,”barMap”:” https://www.google.com/maps/place/Burtons+Grill+%26+Bar/@38.7424751,-77.1628139,15z/data=!4m2!3m1!1s0x0:0xd1dcbd9e0cdd389d?sa=X&ved=1t:2428&ictx=111”},
